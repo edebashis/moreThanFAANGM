@@ -568,6 +568,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="P">P</h2>  
 
 <ol>
+<li><a href="https://www.purelyfemme.in">Purely Femme</a></li>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
 <li><a href="https://parkplus.io/we-are-hiring#hiring">Park+</a>  </li>
 <li><a href="https://www.paypal.com/in/webapps/mpp/jobs">Paypal</a>  </li>
